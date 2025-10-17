@@ -11,7 +11,7 @@
 
 3.  **SQL**
     buisness.sql содержит скрипт для создания таблиц
-    ![Схема хранилища](https://github.com/Denmais/Data-Vault.git/raw/main/data.png)
+    ![Схема хранилища](https://github.com/Denmais/Data-Vault/raw/main/data.png)
 
 4. **Загрузка данных**
     load_to_sql.py загружает данные из csv в БД
