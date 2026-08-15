@@ -19,7 +19,7 @@ def make_bk_hash(df: pd.DataFrame, cols, algo: str = "sha256") -> pd.Series:
 
 
 engine = create_engine(
-    'postgresql+psycopg2://student30:dn2in8aapq92l018jfdh@rc1a-q1h1bect4ltivtlp.mdb.yandexcloud.net,rc1a-st22qvh84iqkso52.mdb.yandexcloud.net:6432/hse',
+    'postgresql+psycopg2://
     connect_args={
         'application_name': 'etl',
         'connect_timeout': 20
